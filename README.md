@@ -6,3 +6,6 @@ S. Go, Q. Luan, & V. Y. Pan, <i>Superfast Matrix Norm Estimation and Low Rank Ap
 
 Gravity and Shaw matrix data are obtained from http://www.math.sjsu.edu/singular/matrices/.
 
+# Note
+
+had_tran.so is included in this repository for completeness, but users should consider compiling it before running to code to avoid any platform-specific problems.
